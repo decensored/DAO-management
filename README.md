@@ -1,4 +1,4 @@
-## DAO
+## DAO work in progres!
 
 ### Constitution -> Github?
 
@@ -28,4 +28,6 @@ We can store data decentral there
 ## Money
 
 ### Community Token?
+
+
 #### NFT?
