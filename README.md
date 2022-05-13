@@ -37,6 +37,17 @@ Right now everyone who introduces himself on discord and has asked to join our D
 
 ## Code
 
+
+### IOTA DID
+A User can use IOTA DID to link his messages to his account, and this DID gives him and only him the possibility to delete the message out of the core.
+
+The Frontends use IOTA DID in order to log in to them. 
+
+- Message not deletable if One looses access to his IOTA DID
+-  Plan for IOTA DID implementation -> 1 Human 1 Account but is still able to be anonym
+- What will be the requirements for the different frontends and who will be allowed to develop those?
+- 
+
 ### We can Use TangleHub beta
 We can store data decentral there
 
