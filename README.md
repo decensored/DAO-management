@@ -44,7 +44,7 @@ A User can use IOTA DID to link his messages to his account, and this DID gives 
 The Frontends use IOTA DID in order to log in to them. 
 
 - Message not deletable if One looses access to his IOTA DID
--  Plan for IOTA DID implementation -> 1 Human 1 Account but is still able to be anonym
+-  Plan for IOTA DID implementation -> 1 Human 1 Account but is still able to be anonym. Alternatively, one root identity could have many different pseudonyms. Such that the owner of the group of identities sees them all but from outside there is nothing linking the different accounts.
 - What will be the requirements for the different frontends and who will be allowed to develop those?
 - 
 
