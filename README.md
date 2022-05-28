@@ -44,9 +44,9 @@ A User can use IOTA DID to link his messages to his account, and this DID gives 
 The Frontends use IOTA DID in order to log in to them. 
 
 - Message not deletable if One looses access to his IOTA DID
--  Plan for IOTA DID implementation -> 1 Human 1 Account but is still able to be anonym. Alternatively, one root identity could have many different pseudonyms. Such that the owner of the group of identities sees them all but from outside there is nothing linking the different accounts.
-- What will be the requirements for the different frontends and who will be allowed to develop those?
-- 
+-  Plan for IOTA DID implementation -> 1 Human 1 Account but is still able to be anonym. Alternatively, one root identity could have many different pseudonyms. Such that the owner of the group of identities sees them all but from outside there is nothing linking the different accounts. Of course, anyone can start a new identity, nothing can stop them, and people will do so for various reasons. But one root identity -> many different pseudonyms makes for easy management.
+- What will be the requirements for the different frontends and who will be allowed to develop those? Anyone should be able to do anything with the code, but whatever they develop should add to the ecosystem.
+- How conversations are moderated is a big challenge. Spam will happen, so even by that simple metric it has to happen. But that lets the genie out the bottle. Moderation must be transparent so users can gauge effectiveness and fairness. And then, there are many different conversations so nodes with poor moderation can be abandoned in favor of those with good moderation.
 
 ### We can Use TangleHub beta
 We can store data decentral there
@@ -56,7 +56,7 @@ We can store data decentral there
 
 ### Community Token?
 
-we have a community token which could be offered for completing awards and airdropped by proposel (e.g. member xxx did hard work for DAO, let us give him y Token) -> then voting
+we have a community token which could be offered for completing awards and airdropped by proposel (e.g. member xxx did hard work for DAO, let us give him y Token) -> then voting. legal has to be worked out
 
 #### NFT?
 
